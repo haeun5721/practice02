@@ -18,6 +18,6 @@ public class Prob04 {
 	}
 
 	public static void printCharArray(char[] array){
-		/* 코드를 완성합니다 */
+		System.out.println( c );
 	}
 }

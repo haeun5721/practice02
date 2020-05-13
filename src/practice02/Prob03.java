@@ -15,7 +15,11 @@ public class Prob03 {
 	}
 	
 	public static void replaceSpace( char[] c ) {
-		/* 코드를 완성합니다 */
+		for(c) {
+			if(c[i]= ' ') {
+				c[i]= ',';
+			}
+		}
 	}
 	
 	public static void printCharArray( char[] c ) {
